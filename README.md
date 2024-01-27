@@ -2,7 +2,7 @@
 Web Developer
 ![Web Developer](https://res.cloudinary.com/dfoinmz3l/image/upload/f_auto,q_auto/qjk5a01uwobggaamzh0q)
 
-<h3>A brief intro, who am I?</h3>
+<h3><b>A brief intro, who am I?</b></h3>
 
 I am an full stack developer based in Dhaka, Bangladesh.
 
