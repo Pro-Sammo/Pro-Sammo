@@ -1,8 +1,8 @@
-# Hi there 👋, my name is Sammo
-### Web Developer
+### Hi there 👋, my name is Sammo
+#### Web Developer
 ![Web Developer](https://res.cloudinary.com/dfoinmz3l/image/upload/f_auto,q_auto/qjk5a01uwobggaamzh0q)
 
-##A brief intro, who am I?
+A brief intro, who am I?
 
 I am an full stack developer based in Dhaka, Bangladesh.
 
@@ -19,8 +19,6 @@ Skills: NEXT JS / REACT / JS / TAILWIND / EXPRESS JS / MONGODB
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pro-Sammo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sirajam-sadekeen-sammo-56b7141a9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sammo-portfolio.vercel.app/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pro-Sammo)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Sammo)](https://github.com/anuraghazra/github-readme-stats)
 
