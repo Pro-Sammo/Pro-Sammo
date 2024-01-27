@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Sammo
+#Hi there 👋, my name is Sammo
 #### Web Developer
 ![Web Developer](https://res.cloudinary.com/dfoinmz3l/image/upload/f_auto,q_auto/qjk5a01uwobggaamzh0q)
 
-A brief intro, who am I?
+##A brief intro, who am I?
 
 I am an full stack developer based in Dhaka, Bangladesh.
 
