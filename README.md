@@ -1,6 +1,5 @@
 <h1>Hi there 👋, my name is Sammo</h1>
-Web Developer
-![Web Developer](https://res.cloudinary.com/dfoinmz3l/image/upload/f_auto,q_auto/qjk5a01uwobggaamzh0q)
+A Web Application Developer!
 
 <h3><b>A brief intro, who am I?</b></h3>
 
