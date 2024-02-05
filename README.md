@@ -1,5 +1,5 @@
 <h1>Hi there 👋, my name is Sammo</h1>
-A Web Application Developer!
+A web application developer!
 
 <h3><b>A brief intro, who am I?</b></h3>
 
